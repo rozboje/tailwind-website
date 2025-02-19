@@ -1,0 +1,7 @@
+@import url(https://fonts.googleapis.com/css?family=JetBrains+Mono:100,200,300,regular,500,600,700,800,100italic,200italic,300italic,italic,500italic,600italic,700italic,800italic);
+
+body {
+    font-family: JetBrains Mono;
+    background-color: #1a1a1a;
+    overflow: hidden;
+}
