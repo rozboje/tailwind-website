@@ -11,4 +11,8 @@
 ```bash
 git clone https://github.com/rozboje/tailwind-website.git
 ```
-### After cloning Edit all files in `Visual Studio Code` with `Live Server`, then start
+
+### For more info read this page
+```bash
+https://tailwindcss.com/docs/installation/using-vite
+```
